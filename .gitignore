@@ -1,5 +1,9 @@
 wc
 
+# JetBrains CLion
+.idea/
+cmake-build-debug/
+
 # CMake
 CMakeCache.txt
 CMakeFiles
